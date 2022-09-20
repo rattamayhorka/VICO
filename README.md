@@ -1,2 +1,2 @@
 # VICO
-Proyecto familiar
+impresion de 53 hojas por cuaderno
